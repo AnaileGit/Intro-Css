@@ -1,0 +1,32 @@
+h1{
+ color: white;
+ background-color: black;
+    
+}
+
+.primer-span{
+    color: red;
+    background-color: blue;
+}
+
+.párrafo-contacto{
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.segundo-párrafo{
+    font-size: 30px;
+    font-weight: bold;
+    background-color: grey;
+   
+}
+
+.tipografía-cursiva{
+    font-family : 'Smooch', cursive;
+
+}
+
+.imagen{
+    width: 400px;
+}
